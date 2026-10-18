@@ -1,0 +1,6 @@
+{
+  "name": "SafeNepal",
+  "description": "Educational disaster preparedness web app for Nepal, featuring verified safety guides, family emergency plans, and official emergency resources.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
